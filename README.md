@@ -1,5 +1,5 @@
 ## Hello Developer! 😄
-###### (Tried to put my own custom emoji there but got destroyed by GitHub's silly image positioning. 
+###### (Tried to put my own custom emoji there but got destroyed by GitHub's silly image positioning.)
 
 I am Mimmeer, and this is my newest GitHub account.
 ##### My previous one was a bit of a mess, so fresh start, fresh mindset!
@@ -48,3 +48,4 @@ console.log("Hello, World!");
 ```
 
 ## My future
+I am working on many projects offline, such as a C# Command Prompt, all that stuff and I am diving into the real world with electronics using Raspberry Pi Pico 2W!
