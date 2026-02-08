@@ -49,3 +49,4 @@ console.log("Hello, World!");
 
 ## My future
 I am working on many projects offline, such as a C# Command Prompt, all that stuff and I am diving into the real world with electronics using Raspberry Pi Pico 2W!
+But wait... there is a new project on the horizon. And I need help, join me to make VanillaOS. A new "hobby" OS that *is not just a hobby*. 🚀
